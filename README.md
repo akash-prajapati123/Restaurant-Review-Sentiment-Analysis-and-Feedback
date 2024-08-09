@@ -29,4 +29,4 @@ Pandas & NumPy: For data manipulation.
 NLTK: For text processing and sentiment analysis.
 Scikit-learn: For machine learning model building and evaluation.
 Matplotlib: For visualization.
-Development Environment: Jupyter Notebook
+### Development Environment: Jupyter Notebook
