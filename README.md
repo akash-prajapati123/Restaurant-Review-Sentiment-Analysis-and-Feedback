@@ -1,4 +1,11 @@
 # Restaurant-Review-Sentiment-Analysis-and-Feedback
+## Table of Contents
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Objecive](#objective)
+- [Features](#features)
+- [Technology Used](#technologies-used)
+- [Notebook](#notebook)
 ## Introduction
 This project is aimed at developing a machine learning model capable of analyzing and classifying restaurant reviews as positive or negative. The purpose is to assist restaurants in understanding customer sentiments more efficiently and deriving actionable insights from customer feedback.
 
@@ -29,5 +36,5 @@ Pandas & NumPy: For data manipulation.
 NLTK: For text processing and sentiment analysis.
 Scikit-learn: For machine learning model building and evaluation.
 Matplotlib: For visualization.
-### Development Environment: Jupyter Notebook
+### Notebook
 https://github.com/akash-prajapati123/Restaurant-Review-Sentiment-Analysis-and-Feedback/blob/main/nlp.ipynb
